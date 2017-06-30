@@ -113,8 +113,8 @@ function rotate(matrix, dir){
  if(dir > 0){
   matrix.forEach(row => row.reverse());
 }
-	else {
+	
 	   	
-	}
+	
 
 }
